@@ -1,6 +1,5 @@
-Exploring Music Review Score Prediction
-
-pd@marchwiak.com
+# Exploring Music Review Score Prediction
+## by Patrick Marchwiak
 
 This code was written as a project for a data mining class.
 Unfortunately, I never got it quite working during the semester
