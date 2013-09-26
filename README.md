@@ -3,7 +3,8 @@
 
 This code was written as a project for a data mining class.
 Unfortunately, I never got it quite working during the semester
-and haven't returned to it since. 
+and haven't had time to return to it since. Please keep code 
+quality expectations low :)
 
 See the `paper` directory for a full project description.
 
